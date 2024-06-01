@@ -1,2 +1,5 @@
 # Demos DDS 2024
-Aca vamos a estar subiendo codigo para hacer demos
+
+Código de prueba para la cursada de Diseño de Sistemas 2024 
+
+> Creado por Martín Fedorenko y Marcos Gurruchaga
